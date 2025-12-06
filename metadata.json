@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Hero Generator",
+  "description": "A Pixar-style character generator powered by Gemini 2.5 Flash Image, featuring a futuristic Buzz Lightyear inspired theme.",
+  "requestFramePermissions": []
+}
